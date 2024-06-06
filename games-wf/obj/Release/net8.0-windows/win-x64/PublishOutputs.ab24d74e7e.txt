@@ -1,0 +1,2 @@
+C:\Users\Den\source\repos\games-wf\games-wf\bin\Release\net8.0-windows\publish\win-x64\games-wf.pdb
+C:\Users\Den\source\repos\games-wf\games-wf\bin\Release\net8.0-windows\publish\win-x64\games-wf.exe

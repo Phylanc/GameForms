@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KX3EfShzJou79RzElqJtfro/0fZX4CVhkwCNh7HtwZeWIXTa+ojO6gxlbH19ORLLl1aaHLOpWVxoGRjBijPnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Den\\source\\repos\\games-wf\\games-wf\\games-wf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Den\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
